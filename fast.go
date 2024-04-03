@@ -36,8 +36,7 @@ func beginPing(host string, arq *os.File) {
 func main() {
 	if len(os.Args) < 2 {
 		color.Red("[-] Invalid usage!")
-		fmt.Println("Usage: ./fastsweep 192.168.0")
-		//fmt.Println("Usage: go hello.go 192.168.0")
+		fmt.Println("Usage: go fast.go 192.168.0")
 	} else {
 		arq, err := os.Create("results.txt")
 		if err != nil {
