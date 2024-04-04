@@ -1,8 +1,8 @@
-<h1 align="center">🌐 Ping sweep</h1>
+<h1 align="center">⚡ Fast sweep</h1>
 
 <p align="center"><img src="project_image.png"> </img></p>
 
-<p>Ping sweep made in golang.</p>
+<p>Ping sweep made in golang with concurrency</p>
 
 ## 🔑 Features
 
