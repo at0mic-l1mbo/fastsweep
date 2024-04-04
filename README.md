@@ -1,7 +1,5 @@
 <h1 align="center">⚡ Fast sweep</h1>
 
-<p align="center"><img src="project_image.png"> </img></p>
-
 <p>Ping sweep made in golang with concurrency</p>
 
 ## 🔑 Features
