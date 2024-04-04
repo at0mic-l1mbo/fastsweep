@@ -26,7 +26,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Commands
 1. Clone the repository: `git clone https://github.com/at0mic-l1mbo/fastsweep`
 2. Navigate to the project directory: `cd fastsweep`
-3. Build and run: `go run hello.go 192.168.0`
+3. Build and run: `go run fast.go 192.168.0`
    
 ### Requirements
 - Linux
